@@ -19,3 +19,5 @@ models/
 
 # Pycharm
 .idea.venv/
+
+.venv

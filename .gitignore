@@ -1,0 +1,21 @@
+# Dataset - too large to commit
+data/raw/
+data/processed/
+
+# Trained models - can be large
+models/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment variables (API keys etc)
+.env
+
+# VS Code / editor settings
+.vscode/
+
+# Mac junk
+.DS_Store
+
+# Pycharm
+.idea

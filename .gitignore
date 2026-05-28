@@ -18,4 +18,4 @@ models/
 .DS_Store
 
 # Pycharm
-.idea
+.idea.venv/
